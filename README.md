@@ -1,80 +1,74 @@
-# 👋 Hi, I'm Sakshi Hudge  
+# Sakshi Hudge
 
-### Final-Year IT Student | Aspiring Full-Stack Developer | Python & AI/ML Learner  
+Final-Year IT Student | Aspiring Full-Stack Developer | Python & AI/ML Enthusiast  
 
-📧 **Email:** sakshi.bhudge@gmail.com  
-🤝 Open to internships, entry-level opportunities, and meaningful collaborations  
-
----
-
-## 👩‍💻 About Me  
-I am a final-year Information Technology student with hands-on experience in building web applications using modern technologies.  
-I enjoy solving real-world problems through clean, efficient code and continuously improving my technical skills.  
-Currently focused on strengthening my expertise in full-stack development and AI/ML concepts.
+Email: sakshi.bhudge@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sakshi-hudge-b3a95625b/
 
 ---
 
-## 🔭 What I'm Working On  
-- **ShopFusion** – An analytical project focused on understanding product relationships and customer behavior using Market Basket Analysis  
+## About Me
+
+Final-year IT student with hands-on experience in **full-stack development** and **Python-based analytical projects**.  
+I focus on building **clean, scalable applications** and continuously improving my technical skills.  
+Actively seeking internships and entry-level software development opportunities.
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=machinelearning&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## Currently Learning
+
+- Machine Learning fundamentals  
+- Advanced Python for data analysis  
+- Data Structures & Algorithms  
 
 ---
 
-## 🌱 Currently Learning  
-- Artificial Intelligence & Machine Learning fundamentals  
-- Advanced Python for data analysis and problem solving  
 
----
 
-## 🤝 Open to Collaboration  
-- Web development projects  
-- Python-based applications  
-- Academic or real-world problem-solving projects  
 
----
-
-## 💬 Ask Me About  
-- Full-stack web development  
-- Python programming  
-- Project collaboration and version control  
-
----
-
-## ⚡ Fun Fact  
-I enjoy turning ideas into functional applications and learning new technologies every day.
-
----
-
-## 🔗 Connect With Me  
-- 📧 Email: **sakshi.bhudge@gmail.com**  
-- 💼 LinkedIn: *[](https://www.linkedin.com/in/sakshi-hudge-b3a95625b/)*  
-- 🧑‍💻 GitHub: You’re already here 😊  
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi6301) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hudge Sakshi Balwant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshi.bhudge@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
+### Contribution Graph (Snake Animation)
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution Snake" />
 </div>
 
-# 💻 Tech Stack:
-Tech Stack: C++, Java, Python, PHP, JavaScript | HTML5, CSS3, Bootstrap, React | Django | MySQL, MongoDB | NumPy, Pandas, scikit-learn | AWS | Git, GitHub | Figma
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakshi6301&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sakshi6301&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6301&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sakshi6301&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakshi6301&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=sakshi6301&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Contact
+
+Email: sakshi.bhudge@gmail.com  
+LinkedIn: https://www.linkedin.com/in/sakshi-hudge-b3a95625b/
+
+
