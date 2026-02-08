@@ -1,16 +1,54 @@
-# 💫 Hi 👋, I'm Sakshi Hudge
-**A passionate AIML Engineer ||Fullstack Developer || Python developer**
+# 👋 Hi, I'm Sakshi Hudge  
 
-Email Me 👉 ✉️ **sakshi.bhudge@gail.com** For Collaboration/Project or Anything Else. 😊😊
+### Final-Year IT Student | Aspiring Full-Stack Developer | Python & AI/ML Learner  
 
-- 🔭 **I’m currently working on:** Shopfusion: Fusing Products and Shopper Behavior with Market Basket Analysis
-- 🌱 **I’m currently learning:** AIML skills
-- 👯 **I’m looking to collaborate on:** Learnsphere
-- 🤔 **I’m looking for help with:** Hostel Management System
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:**sakshi.bhudge@gmail.com
-- 😄 **Pronouns:** sakshi
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📧 **Email:** sakshi.bhudge@gmail.com  
+🤝 Open to internships, entry-level opportunities, and meaningful collaborations  
+
+---
+
+## 👩‍💻 About Me  
+I am a final-year Information Technology student with hands-on experience in building web applications using modern technologies.  
+I enjoy solving real-world problems through clean, efficient code and continuously improving my technical skills.  
+Currently focused on strengthening my expertise in full-stack development and AI/ML concepts.
+
+---
+
+## 🔭 What I'm Working On  
+- **ShopFusion** – An analytical project focused on understanding product relationships and customer behavior using Market Basket Analysis  
+
+---
+
+## 🌱 Currently Learning  
+- Artificial Intelligence & Machine Learning fundamentals  
+- Advanced Python for data analysis and problem solving  
+
+---
+
+## 🤝 Open to Collaboration  
+- Web development projects  
+- Python-based applications  
+- Academic or real-world problem-solving projects  
+
+---
+
+## 💬 Ask Me About  
+- Full-stack web development  
+- Python programming  
+- Project collaboration and version control  
+
+---
+
+## ⚡ Fun Fact  
+I enjoy turning ideas into functional applications and learning new technologies every day.
+
+---
+
+## 🔗 Connect With Me  
+- 📧 Email: **sakshi.bhudge@gmail.com**  
+- 💼 LinkedIn: *[](https://www.linkedin.com/in/sakshi-hudge-b3a95625b/)*  
+- 🧑‍💻 GitHub: You’re already here 😊  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi6301) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hudge Sakshi Balwant) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshi.bhudge@gmail.com) 
 
