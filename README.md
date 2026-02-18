@@ -1,6 +1,7 @@
 # Sakshi Hudge
-
-Final-Year IT Student | Aspiring Full-Stack Developer | Python & AI/ML Enthusiast  
+🎓 Final-year IT student with hands-on experience in full-stack web development through internships and academic projects.
+💻 Passionate about building database-driven applications, implementing backend logic, and creating responsive web interfaces.
+🧠 Strong problem-solving skills with a keen interest in real-world software solutions. 
 
 Email: sakshi.bhudge@gmail.com  
 LinkedIn: https://www.linkedin.com/in/sakshi-hudge-b3a95625b/
@@ -8,11 +9,13 @@ LinkedIn: https://www.linkedin.com/in/sakshi-hudge-b3a95625b/
 ---
 
 ## About Me
+Hands-on experience gained through internships and multiple real-world projects
 
-Final-year IT student with hands-on experience in **full-stack development** and **Python-based analytical projects**.  
-I focus on building **clean, scalable applications** and continuously improving my technical skills.  
-Actively seeking internships and entry-level software development opportunities.
+Comfortable working across different tech stacks and frameworks
 
+Interested in backend development, full-stack systems, and scalable applications
+
+Continuously learning and improving through projects and practice
 ## 🛠️ Tech Stack
 
 ### Programming Languages
