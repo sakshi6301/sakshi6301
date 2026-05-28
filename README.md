@@ -131,20 +131,39 @@ Ingenious Technohub
 - Strengthened frontend fundamentals
 
 ---
-
-## GitHub Activity
+## GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi6301&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi6301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6301&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6301&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sakshi6301&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### Contribution Summary
+
+- Actively building and maintaining **full-stack MERN applications**
+- Focused on **backend-heavy development (APIs, authentication, database design)**
+- Consistent work on **project-based learning + real deployments**
+- Experience working with **Git-based team collaboration during internships**
+- Regular practice in **DSA + system design fundamentals**
+
+---
+
+### What My GitHub Reflects
+
+- Real-world project development (not just tutorial code)
+- Full-stack deployment experience using cloud platforms (Render)
+- Backend-first engineering approach with scalable APIs
+- Integration of ML models into web applications
+- Continuous learning through building production-style systems
 
 ---
 
