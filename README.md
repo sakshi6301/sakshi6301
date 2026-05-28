@@ -143,7 +143,7 @@ Ingenious Technohub
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6301&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi6301&theme=github-compact&hide_border=true" />
 </p>
 ---
 
