@@ -134,14 +134,16 @@ Ingenious Technohub
 ## GitHub Activity & Contributions
 
 
-## GitHub Activity & Contributions
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshi6301&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi6301&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshi6301&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi6301&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi6301&theme=tokyo-night" />
 </p>
 ---
 
