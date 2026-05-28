@@ -132,16 +132,18 @@ Ingenious Technohub
 
 ---
 <!-- GitHub Stats Card -->
-GitHub Activity & Contributions
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi6301&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+##GitHub activity and Contributions
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi6301&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- GitHub Activity Graph -->
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi6301&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6301&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
