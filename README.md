@@ -132,9 +132,7 @@ Ingenious Technohub
 
 ---
 <!-- GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi6301&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+GitHub Activity & Contributions
 
 <!-- GitHub Streak Stats -->
 <p align="center">
