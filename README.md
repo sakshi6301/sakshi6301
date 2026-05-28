@@ -131,19 +131,19 @@ Ingenious Technohub
 - Strengthened frontend fundamentals
 
 ---
-## GitHub Activity & Contributions
-
-
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi6301&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi6301&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi6301&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi6301&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi6301&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi6301&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
