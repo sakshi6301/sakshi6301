@@ -1,9 +1,9 @@
 <!-- WAVE HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=220&section=header&text=Sakshi%20Hudge&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20MERN%20Stack%20Developer%20%7C%20Kiran%20Scholar%20%40%20Persistent%20Systems&descAlignY=60&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:bc8cff&height=220&section=header&text=Sakshi%20Hudge&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20MERN%20Stack%20Developer%20%7C%205%2B%20Live%20Projects%20%7C%20Kiran%20Scholar&descAlignY=60&descSize=16)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+%26+MERN+Full-Stack+Developer;5%2B+Shipped+%26+Live+Projects;9-Month+Java+Internship+%40+Shorat+Innovation;Kiran+Scholar+%40+Persistent+Systems;8.95+CGPA+%7C+Open+to+SDE+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Java+%26+MERN+Full-Stack+Developer;Building+production-ready+web+apps+with+real+users;5%2B+shipped+projects+%7C+2+internships+%7C+8.95+CGPA;Kiran+Scholar+%40+Persistent+Systems;Open+to+SDE+roles+from+July+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,45 +15,130 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_SDE_Roles_%26_Remote_Work-1a2f1a?style=flat&color=3fb950)
+![Open to Work](https://img.shields.io/badge/Status-Open_to_SDE_Roles_%26_Remote_Work-3fb950?style=flat&labelColor=1a1f2e)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## Recruiter Snapshot
 
 ```java
-public class Sakshi extends Developer {
+public class SakshiHudge extends FullStackDeveloper {
 
-    String   name      = "Sakshi Hudge";
-    String   location  = "Pune, India 🇮🇳";
-    String[] stack     = {"Java", "React", "Node.js", "Express.js", "MongoDB"};
-    String   focus     = "Full-Stack Development → AI/ML";
-    float    cgpa      = 8.95f;
-    String   scholar   = "Kiran Scholar @ Persistent Systems";
-    boolean  openToWork = true;
+    String location = "Pune, India";
+    String education = "B.E. Information Technology, 2023-2026";
+    float cgpa = 8.95f;
 
-    String[] experience = {
-        "Java Full Stack Developer @ Shorat Innovation (Jan 2025 – Sep 2025)",
-        "Web Developer @ Ingenious Technohub (Sep 2023 – Dec 2023)"
+    String[] coreStack = {
+        "Java", "React", "Node.js", "Express.js", "MongoDB", "MySQL"
     };
 
-    String[] shipped = {
-        "Earn & Learn Samiti Portal  → live, institutional use",
-        "SCOPE — Smart Parent Engagement  → live, ML-integrated",
-        "UstavMancha — Event Management  → live",
-        "VSS Hostel Management System",
-        "Visitor Management System w/ Gmail API"
+    String[] strengths = {
+        "Backend-driven full-stack development",
+        "REST API design and database integration",
+        "Production-style project delivery",
+        "AI/ML foundations with Python, NumPy, Pandas, scikit-learn"
     };
+
+    String currentGoal = "Full-time Software Development Engineer role";
+    boolean openToWork = true;
 }
 ```
 
-> Final-year B.E. IT student (2023–2026) with **2 internships**, **5+ live projects**, and an **8.95 CGPA**. I build backend-driven full-stack apps with Java and MERN, and I'm actively levelling up in AI/ML to build smarter, data-aware systems. I care about code that actually ships and gets used — not just code that demos well.
+I am a final-year B.E. IT student and Java/MERN full-stack developer with **2 internships**, **5+ shipped projects**, and an **8.95 CGPA**. I enjoy building practical systems that move beyond demos: dashboards, portals, authentication flows, APIs, databases, and ML-backed features that real users can interact with.
+
+My current focus is strengthening **Java backend engineering**, **Spring Boot fundamentals**, **DSA**, and **AI/ML integration** so I can build smarter, scalable full-stack applications.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Bring
+
+| Area | Evidence |
+|:---|:---|
+| **Full-stack delivery** | Built and deployed MERN applications with authentication, dashboards, CRUD workflows, and REST APIs |
+| **Backend mindset** | Comfortable with Java, Node.js, Express.js, MongoDB, MySQL, API integration, and data modelling |
+| **Real project exposure** | 5+ live or production-style projects, including institutional and engagement platforms |
+| **Internship experience** | Java Full Stack Developer internship and Web Developer internship |
+| **Academic consistency** | 8.95 CGPA and Kiran Scholar at Persistent Systems |
+| **Growth direction** | Exploring Spring Boot, system design patterns, DSA, and applied ML |
+
+---
+
+## Featured Projects
+
+### Earn & Learn Samiti Portal
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white)](https://earn-learn-client.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi6301/Earn_and_learn-department-management-sytem-)
+
+Department management and opportunity portal built for institutional use.
+
+- Designed role-based workflows for students, coordinators, and admins
+- Built dashboards for opportunity listings, applications, and record management
+- Implemented MERN stack architecture with authentication and database-backed operations
+
+`React` `Node.js` `Express.js` `MongoDB` `JavaScript` `Role-Based Auth`
+
+---
+
+### SCOPE - Smart Parent Engagement
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white)](https://smart-parent-engagement.onrender.com/login)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi6301/smart-parent-engagement)
+
+School-parent engagement platform with ML-based student support insights.
+
+- Built React frontend and Node/Express REST API
+- Used MongoDB for engagement, attendance, and user data
+- Integrated a scikit-learn classification model to identify students who may need support
+
+`MERN Stack` `React` `Node.js` `MongoDB` `Python` `scikit-learn` `REST API`
+
+---
+
+### UstavMancha - Event Management Platform
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white)](https://eventmanagement-lmkb.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi6301/EventManagement)
+
+End-to-end event management app for creating, managing, and discovering events.
+
+- Developed organiser and attendee workflows
+- Implemented event CRUD operations with REST APIs
+- Built a clean, responsive UI focused on usability
+
+`React` `Node.js` `Express.js` `MongoDB` `REST API`
+
+---
+
+### VSS Hostel Management System
+
+Hostel management system for student records, room allocation, and admin operations.
+
+- Designed relational data flow for rooms, occupancy, and student records
+- Built PHP/MySQL admin workflows for hostel operations
+- Practiced normalized schema design and backend-heavy application structure
+
+`PHP` `MySQL` `HTML` `CSS`
+
+---
+
+### Visitor Management System
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi6301/Visitor_Management)
+
+Python-based visitor tracking system with automated email and SMS notifications.
+
+- Implemented visitor check-in and check-out logging
+- Integrated Gmail API notifications for real-time alerts
+- Focused on secure, traceable visitor management workflows
+
+`Python` `Gmail API` `Web App` `API Integration`
+
+---
+
+## Tech Stack
 
 **Languages**
 
@@ -70,12 +155,13 @@ public class Sakshi extends Developer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Backend & Databases**
+**Backend, Database & Tools**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **AI/ML & Cloud**
 
@@ -83,94 +169,36 @@ public class Sakshi extends Developer {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## Experience
 
-### 🏫 [Earn & Learn Samiti Portal](https://earn-learn-client.onrender.com/)
-> Department management and opportunity portal built for real institutional use — students, coordinators, and administrators all in one system.
+### Java Full Stack Developer - Shorat Innovation
 
-Full MERN stack app with role-based access control for three user types: students, department coordinators, and admins. Handles work opportunity listings, student applications, record management, and dashboard views — all live and in active use.
+`Jan 2025 - Sep 2025` | `9 months`
 
-`React` `Node.js` `Express.js` `MongoDB` `JavaScript` `Role-Based Auth`
+- Built and maintained Java-based backend services with REST APIs, business logic, and database integration
+- Contributed across frontend and backend features in a production-style codebase
+- Used Git, code reviews, debugging, and iterative development practices in a team environment
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi6301/Earn_and_learn-department-management-sytem-)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://earn-learn-client.onrender.com/)
+### Web Developer - Ingenious Technohub
 
----
+`Sep 2023 - Dec 2023` | `4 months`
 
-### 📱 [SCOPE — Smart Parent Engagement](https://smart-parent-engagement.onrender.com/login)
-> MERN platform improving school-parent communication, with ML-based insights to help identify students who need extra support.
-
-Built the full-stack foundation: React frontend, Node/Express REST API, MongoDB. Integrated a scikit-learn classification model on the backend to flag at-risk students based on engagement and attendance patterns.
-
-`MERN Stack` `React` `Node.js` `MongoDB` `Python` `scikit-learn` `REST API`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi6301/smart-parent-engagement)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://smart-parent-engagement.onrender.com/login)
+- Developed responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap
+- Worked with real project requirements, timelines, and client-facing deliverables
+- Built a practical foundation in frontend development and collaborative delivery
 
 ---
 
-### 🎉 [UstavMancha — Event Management Platform](https://eventmanagement-lmkb.onrender.com/)
-> End-to-end event organisation platform — create, manage, track, and discover events with a clean, fast user experience.
-
-Full MERN stack with event creation and management workflows, user-side event discovery, and CRUD operations backed by MongoDB. Clean UI focused on usability across both organiser and attendee flows.
-
-`React` `Node.js` `Express.js` `MongoDB` `REST API`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi6301/EventManagement)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://eventmanagement-lmkb.onrender.com/)
-
----
-
-### 🏠 VSS Hostel Management System
-> PHP + MySQL hostel management system for room allocation, student records, and admin operations.
-
-Backend-heavy project with relational DB design covering room allocation logic, occupancy tracking, and admin dashboards. Demonstrates server-side PHP architecture and normalised MySQL schema design.
-
-`PHP` `MySQL` `HTML` `CSS`
-
----
-
-### 🔐 [Visitor Management System](https://github.com/sakshi6301/Visitor_Management)
-> Python-based visitor tracking system with automated email + SMS notifications via Gmail API for secure check-in flows.
-
-Automated visitor logging that fires real-time Gmail API notifications on check-in and check-out events. Demonstrates third-party API integration, security-first application design, and Python backend architecture.
-
-`Python` `Gmail API` `Web App` `API Integration`
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshi6301/Visitor_Management)
-
----
-
-## 💼 Experience
-
-**☕ Java Full Stack Developer — Shorat Innovation**
-`Jan 2025 – Sep 2025` · 9 months
-
-- Built and maintained Java-based backend services, working across the full stack with REST API design, business logic implementation, and database integration
-- Developed frontend components and contributed to end-to-end feature delivery in a production codebase using Java and web technologies
-- Collaborated in a team environment with version control (Git), code reviews, and iterative deployment cycles
-
----
-
-**🌐 Web Developer — Ingenious Technohub**
-`Sep 2023 – Dec 2023` · 4 months
-
-- Developed web interfaces and contributed to client-facing projects during a foundational internship focused on HTML, CSS, JavaScript, and responsive design
-- Gained hands-on experience working with real project requirements, timelines, and cross-functional collaboration
-
----
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
 ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi6301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6301&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi6301&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sakshi6301&theme=tokyonight&hide_border=true)
 
@@ -178,7 +206,7 @@ Automated visitor logging that fires real-time Gmail API notifications on check-
 
 ---
 
-## 🏆 Achievements
+## Achievements & Certifications
 
 <div align="center">
 
@@ -186,38 +214,37 @@ Automated visitor logging that fires real-time Gmail API notifications on check-
 
 </div>
 
-| 🎓 CGPA | 💼 Internships | 🚀 Live Projects | 📜 Certifications | ⭐ Scholar |
+| CGPA | Internships | Projects | Certifications | Recognition |
 |:---:|:---:|:---:|:---:|:---:|
-| **8.95** | **2** | **5+** | **5** | **Kiran @ Persistent** |
+| **8.95** | **2** | **5+** | **5** | **Kiran Scholar @ Persistent Systems** |
+
+**Certifications**
+
+- Oracle AI Foundations - Oracle
+- AWS Cloud Practitioner - Amazon Web Services
+- Quantum Computing Fundamentals
+- Python Programming
+- Bootstrap - IIT Bombay
 
 ---
 
-## 📜 Certifications
+## Currently Learning
 
-- 🔶 **Oracle AI Foundations** — Oracle
-- ☁️ **AWS Cloud Practitioner** — Amazon Web Services
-- ⚛️ **Quantum Computing Fundamentals** — IBM / NPTEL *(update issuer)*
-- 🐍 **Python Programming** — NPTEL / Coursera *(update issuer)*
-- 🎨 **Bootstrap** — IIT Bombay
-
----
-
-## 📚 Currently
-
-- 🤖 Applying NumPy, Pandas, and scikit-learn to real classification problems
-- ☕ Strengthening Java system design patterns and DSA problem solving
-- 🏗️ Exploring Spring Boot for production-grade Java backend architecture
+- Java backend architecture and Spring Boot fundamentals
+- DSA for SDE interview preparation
+- NumPy, Pandas, and scikit-learn for practical ML workflows
+- Cleaner API design, database modelling, and deployment practices
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
-📧 [sakshi.bhudge@gmail.com](mailto:sakshi.bhudge@gmail.com)
-💼 [linkedin.com/in/sakshi-hudge-b3a95625b](https://www.linkedin.com/in/sakshi-hudge-b3a95625b/)
-🌐 [portfolio-13kc.onrender.com](https://portfolio-13kc.onrender.com)
-📄 [Download Resume](https://portfolio-13kc.onrender.com/assets/SakshiHudge.pdf)
+I am open to **full-time SDE roles**, internships, and remote opportunities from **July 2026**.
 
-> ⚡ I respond within 24 hours. Open to full-time SDE roles and remote opportunities from **July 2026**.
+Email: [sakshi.bhudge@gmail.com](mailto:sakshi.bhudge@gmail.com)  
+LinkedIn: [linkedin.com/in/sakshi-hudge-b3a95625b](https://www.linkedin.com/in/sakshi-hudge-b3a95625b/)  
+Portfolio: [portfolio-13kc.onrender.com](https://portfolio-13kc.onrender.com)  
+Resume: [Download Resume](https://portfolio-13kc.onrender.com/assets/SakshiHudge.pdf)
 
 <!-- WAVE FOOTER -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=120&section=footer)
